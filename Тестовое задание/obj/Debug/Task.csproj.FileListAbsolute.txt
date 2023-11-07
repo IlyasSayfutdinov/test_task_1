@@ -1,0 +1,8 @@
+D:\Repos\Тестовое задание\Тестовое задание\bin\Debug\Тестовое задание.exe.config
+D:\Repos\Тестовое задание\Тестовое задание\bin\Debug\Тестовое задание.exe
+D:\Repos\Тестовое задание\Тестовое задание\bin\Debug\Тестовое задание.pdb
+D:\Repos\Тестовое задание\Тестовое задание\obj\Debug\Task.csproj.AssemblyReference.cache
+D:\Repos\Тестовое задание\Тестовое задание\obj\Debug\Task.csproj.SuggestedBindingRedirects.cache
+D:\Repos\Тестовое задание\Тестовое задание\obj\Debug\Task.csproj.CoreCompileInputs.cache
+D:\Repos\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.exe
+D:\Repos\Тестовое задание\Тестовое задание\obj\Debug\Тестовое задание.pdb
